@@ -8,4 +8,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-https://github.com/socialrivals/.github/assets/145576626/df5224fa-e714-4fe6-8d35-07565d7e44bf
+https://github.com/socialrivals/.github/assets/145576626/a46c5f9d-24e0-4cc5-b45c-a68456ff871a
+
